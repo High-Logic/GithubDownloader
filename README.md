@@ -7,7 +7,7 @@ repository.
 
 ## 🚀 Download
 
-[**Get the Latest Release**](https://github.com/your-username/your-repo/releases)
+[**Get the Latest Release**](https://github.com/High-Logic/GithubDownloader/releases/download/V0.1/GithubDownloader.zip)
 
 ## 🛠️ How to Use
 
@@ -15,7 +15,8 @@ repository.
 
 Simply run the program and follow the prompts:
 
-- **Windows:** Double-click `GithubDownloader.exe`
+- **Windows:** `GithubDownloader.exe`
+- **Python:** `python main.py`
 
 ### Advanced (CLI Mode)
 
